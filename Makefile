@@ -39,6 +39,7 @@ bonus: $(OBJS) $(BONUS_OBJS)
 # Limpa os arquivos .o
 clean:
 	rm -f $(OBJS)
+	rm -f $(BONUS_OBJS)
 
 # Limpa os arquivos .o e a biblioteca
 fclean: clean
