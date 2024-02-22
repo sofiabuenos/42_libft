@@ -1,16 +1,14 @@
-
 # LIBFT
 
-Libft is a library of functions. 
-This project's aim is to reproduce some of the Standard C Library functions behavior and some additional and useful functions to be used in future projects.
+Libft is a library of functions created as part of a programming project. The goal of this project is to replicate the behavior of some Standard C Library functions and introduce additional, useful functions for future projects.
 
-The project is composed of .c files where all the functions are written in, a header file which includes all function prototypes and data structutes used in the project and a Makefile to automatize compiling, cleaning and recompiling tasks
+The project consists of several `.c` files, each containing specific functions, a header file that includes all function prototypes and data structures used in the project, and a Makefile for automating compilation, cleaning, and recompilation tasks.
 
-# Libft functions
+## Libft Functions
 
 ### Functions from `<ctype.h>`
 
-- `ft_isalpha`: Checks if a character is an alphabetical character.
+- `ft_isalpha`: Checks if a character is an alphabetic character.
 - `ft_isdigit`: Determines whether a character is a digit (0 to 9).
 - `ft_isalnum`: Tests if a character is alphanumeric.
 - `ft_isascii`: Verifies if a character fits within the ASCII character set.
