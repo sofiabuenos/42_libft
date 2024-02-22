@@ -1,10 +1,10 @@
 
 # LIBFT
 
-### Libft is a library of functions. 
-### This project's aim is to reproduce some of the Standard C Library functions behavior and some additional and useful functions to be used in future projects.
+Libft is a library of functions. 
+This project's aim is to reproduce some of the Standard C Library functions behavior and some additional and useful functions to be used in future projects.
 
-### The project is composed of .c files where all the functions are written in, a header file which includes all function prototypes and data structutes used in the project and a Makefile to automatize compiling, cleaning and recompiling tasks
+The project is composed of .c files where all the functions are written in, a header file which includes all function prototypes and data structutes used in the project and a Makefile to automatize compiling, cleaning and recompiling tasks
 
 # Libft functions
 
