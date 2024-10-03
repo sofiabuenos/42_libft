@@ -1,6 +1,6 @@
 # LIBFT
 
-Libft is a library of functions created as part of a programming project. The goal of this project is to replicate the behavior of some Standard C Library functions and introduce additional, useful functions for future projects.
+Libft is a library of functions created as part of my very first programming project in C. This project's goal is to replicate the behavior of some Standard C Library functions and introduce additional, useful functions for future projects.
 
 The project consists of several `.c` files, each containing specific functions, a header file that includes all function prototypes and data structures used in the project, and a Makefile for automating compilation, cleaning, and recompilation tasks.
 
